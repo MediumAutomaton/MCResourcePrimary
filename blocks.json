@@ -1,0 +1,21 @@
+{
+"format_version": "1.16.0",
+  "moderate:panel_blank": {
+    "textures": "panel_blank"
+    "sound":"stone"
+    }
+}
+{
+"format_version": "1.16.0",
+  "moderate:led": {
+      "textures" : {
+         "down" : "panel_blank",
+         "east" : "panel_blank",
+         "north" : "ledplug",
+         "south" : "led",
+         "up" : "panel_blank",
+         "west" : "panel_blank"
+         }
+    "sound":"stone"
+    }
+}

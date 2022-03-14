@@ -1,0 +1,18 @@
+{
+ "format_version": 2,
+ "header": {
+   "description": "A collection of various resources.",
+   "name": "MediumAutomaton - Primary",
+   "uuid":"bcc1e653-38b7-4869-8647-f3d69eb92031",
+   "version": [1, 0, 0],
+   "min_engine_version": [1, 16, 0]
+  },
+ "modules": [
+   {
+     "description": "Various",
+     "type": "resources",
+     "uuid": "b101f7eb-1e72-46dc-a243-0cc20bcb5590",
+     "version": [1, 0, 0]
+   }
+ ]
+}
